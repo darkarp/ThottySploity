@@ -1,4 +1,4 @@
-<h1>&nbsp&nbsp&nbspHi, I'm a malware enthousiast, pentester and reverse engineer! </h1>
+<h1>&nbsp&nbsp&nbspHi, I'm a malware enthusiast, pentester and reverse engineer! </h1>
 <hr>
 <img src="https://komarev.com/ghpvc/?username=ThottySploity&color=red" alt="profile counter"/>
 <p>I make projects && content purely for educational purposes, to learn myself things and to potentially teach other people something new.</p>
